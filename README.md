@@ -1,0 +1,1 @@
+This is Clarence's first git project!
